@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/SenceApp/static/css/main.9460673d.chunk.css",
+    "main.css": "/SenceApp/static/css/main.55f5e8c9.chunk.css",
     "main.js": "/SenceApp/static/js/main.f0e77a22.chunk.js",
     "main.js.map": "/SenceApp/static/js/main.f0e77a22.chunk.js.map",
     "runtime-main.js": "/SenceApp/static/js/runtime-main.52dce141.js",
@@ -10,7 +10,7 @@
     "static/js/2.454547ca.chunk.js.map": "/SenceApp/static/js/2.454547ca.chunk.js.map",
     "index.html": "/SenceApp/index.html",
     "static/css/2.383c0125.chunk.css.map": "/SenceApp/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.9460673d.chunk.css.map": "/SenceApp/static/css/main.9460673d.chunk.css.map",
+    "static/css/main.55f5e8c9.chunk.css.map": "/SenceApp/static/css/main.55f5e8c9.chunk.css.map",
     "static/js/2.454547ca.chunk.js.LICENSE.txt": "/SenceApp/static/js/2.454547ca.chunk.js.LICENSE.txt",
     "static/media/SenceLogo.png": "/SenceApp/static/media/SenceLogo.42f68bd0.png"
   },
@@ -18,7 +18,7 @@
     "static/js/runtime-main.52dce141.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.454547ca.chunk.js",
-    "static/css/main.9460673d.chunk.css",
+    "static/css/main.55f5e8c9.chunk.css",
     "static/js/main.f0e77a22.chunk.js"
   ]
 }
