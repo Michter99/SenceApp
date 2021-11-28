@@ -1,0 +1,24 @@
+.profile-page {
+  margin-bottom: auto;
+  text-align: center;
+  position: relative;
+  min-height: 100vh;
+}
+
+footer {
+  background-color: #18191f;
+  text-align: center;
+  color: #ffffff;
+  width: 100%;
+  min-height: 100px;
+}
+
+footer i {
+  font-size: 20px;
+}
+
+footer .row {
+  margin-top: 50px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}

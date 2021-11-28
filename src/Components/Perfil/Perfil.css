@@ -1,0 +1,97 @@
+.card-info {
+  width: 90%;
+  display: block;
+  margin: auto;
+  max-width: 900px;
+}
+
+.main-title {
+  font-size: 50px;
+  text-align: center;
+}
+
+.listTutSt {
+  position: relative;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-heading1 {
+  margin-left: 100px;
+}
+
+.text-center {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
+}
+
+.text-center p {
+  margin-bottom: 0;
+}
+
+.filter-form {
+  margin-top: 15px;
+  margin-left: 50px;
+  text-align: left;
+}
+
+.row .card {
+  border: none;
+}
+
+.card .card-body {
+  border: 1px solid rgba(0, 0, 0, 0.171) !important;
+  border-radius: 5px;
+}
+
+.text-center .card-body {
+  border: none !important;
+}
+
+@media (max-width: 990px) {
+  .section-heading1 {
+    margin: 0 2px;
+    text-align: center;
+  }
+}
+
+@media (max-width: 620px) {
+  .text-center {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .text-center h3 {
+    font-size: 27px;
+  }
+
+  .text-center h5 {
+    font-size: 17px;
+  }
+
+  .text-center p {
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 580px) {
+  .row .card {
+    text-align: center;
+  }
+
+  .text-center .card-subtitle {
+    font-size: 17px;
+  }
+
+  .filter-form {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+
+  .row {
+    margin-left: 1px !important;
+    margin-right: 1px !important;
+  }
+}
